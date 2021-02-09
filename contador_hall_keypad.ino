@@ -3,6 +3,7 @@
 #include <EEPROM.h>
 #define SENSOR 10
 
+
 LiquidCrystal lcd(24,25,26,31,33,35,37); //(RS,RW, E, D4,D5, D6, D7)
 
 const byte filas = 4;
